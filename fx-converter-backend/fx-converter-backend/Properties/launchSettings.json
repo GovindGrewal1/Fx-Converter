@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "fx_converter_backend": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7204",
+      "launchBrowser": false
+    }
+  }
+}
